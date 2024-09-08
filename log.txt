@@ -1,0 +1,204 @@
+UserID: 5744186999 | Time: 2024-09-05 12:57:47.121145 | Command: /bgmi | Target: 52.172.26.156 | Port: 18607 | Time: 180
+Username: @HYPERxNINJA
+Target: 52.172.26.156
+Port: 18607
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-05 13:06:41.198992 | Command: /bgmi | Target: 20.198.78.134 | Port: 23949 | Time: 180
+Username: @HYPERxNINJA
+Target: 20.198.78.134
+Port: 23949
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-05 13:54:43.526723 | Command: /bgmi | Target: 20.204.191.230 | Port: 10371 | Time: 180
+Username: @HYPERxNINJA
+Target: 20.204.191.230
+Port: 10371
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-05 13:57:32.799262 | Command: /bgmi | Target: 20.198.110.84 | Port: 23112 | Time: 180
+Username: @HYPERxNINJA
+Target: 20.198.110.84
+Port: 23112
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-05 14:14:55.879093 | Command: /bgmi | Target: 20.198.78.222 | Port: 22553 | Time: 180
+Username: @HYPERxNINJA
+Target: 20.198.78.222
+Port: 22553
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-05 14:39:18.322150 | Command: /bgmi | Target: 52.140.1.158 | Port: 18142 | Time: 180
+Username: @HYPERxNINJA
+Target: 52.140.1.158
+Port: 18142
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-05 17:41:02.595026 | Command: /bgmi | Target: 20.198.72.161 | Port: 19756 | Time: 180
+Username: @HYPERxNINJA
+Target: 20.198.72.161
+Port: 19756
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-05 17:44:12.415426 | Command: /bgmi | Target: 20.198.72.161 | Port: 19756 | Time: 180
+Username: @HYPERxNINJA
+Target: 20.198.72.161
+Port: 19756
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-05 17:56:42.058561 | Command: /bgmi | Target: 20.235.93.245 | Port: 27157 | Time: 180
+Username: @HYPERxNINJA
+Target: 20.235.93.245
+Port: 27157
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-05 17:59:49.878312 | Command: /bgmi | Target: 20.235.93.245 | Port: 27157 | Time: 180
+Username: @HYPERxNINJA
+Target: 20.235.93.245
+Port: 27157
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-06 05:22:33.229052 | Command: /bgmi | Target: 20.235.91.70 | Port: 20834 | Time: 240
+Username: @HYPERxNINJA
+Target: 20.235.91.70
+Port: 20834
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-06 09:07:03.545849 | Command: /bgmi | Target: 20.235.89.47 | Port: 25761 | Time: 240
+Username: @HYPERxNINJA
+Target: 20.235.89.47
+Port: 25761
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-06 09:11:19.961040 | Command: /bgmi | Target: 20.235.89.47 | Port: 25761 | Time: 180
+Username: @HYPERxNINJA
+Target: 20.235.89.47
+Port: 25761
+Time: 180
+
+UserID: 5744186999 | Time: 2024-09-06 10:04:03.684242 | Command: /bgmi | Target: 4.213.65.112 | Port: 22932 | Time: 240
+Username: @HYPERxNINJA
+Target: 4.213.65.112
+Port: 22932
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-06 10:13:53.880839 | Command: /bgmi | Target: 20.204.180.33 | Port: 29990 | Time: 240
+Username: @HYPERxNINJA
+Target: 20.204.180.33
+Port: 29990
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 10:01:44.933473 | Command: /bgmi | Target: 52.140.45.98 | Port: 10298 | Time: 240
+Username: @HYPERxNINJA
+Target: 52.140.45.98
+Port: 10298
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 10:20:13.547544 | Command: /bgmi | Target: 20.219.124.128 | Port: 19407 | Time: 240
+Username: @HYPERxNINJA
+Target: 20.219.124.128
+Port: 19407
+Time: 240
+
+UserID: 6145909241 | Time: 2024-09-07 11:51:36.187272 | Command: /bgmi | Target: 20.235.93.135 | Port: 23057 | Time: 240
+Username: @Re3eN
+Target: 20.235.93.135
+Port: 23057
+Time: 240
+
+UserID: 6145909241 | Time: 2024-09-07 11:56:53.406683 | Command: /bgmi | Target: 20.204.190.240 | Port: 10075 | Time: 240
+Username: @Re3eN
+Target: 20.204.190.240
+Port: 10075
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 12:02:33.184521 | Command: /bgmi | Target: 52.140.43.9 | Port: 18629 | Time: 240
+Username: @HYPERxNINJA
+Target: 52.140.43.9
+Port: 18629
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 12:18:32.172131 | Command: /bgmi | Target: 20.235.93.150 | Port: 16992 | Time: 240
+Username: @HYPERxNINJA
+Target: 20.235.93.150
+Port: 16992
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 13:38:26.073260 | Command: /bgmi | Target: 52.172.24.242 | Port: 14106 | Time: 240
+Username: @HYPERxNINJA
+Target: 52.172.24.242
+Port: 14106
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 13:51:48.050398 | Command: /bgmi | Target: 4.213.66.155 | Port: 25529 | Time: 240
+Username: @HYPERxNINJA
+Target: 4.213.66.155
+Port: 25529
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 14:13:28.818108 | Command: /bgmi | Target: 52.140.18.12 | Port: 16515 | Time: 240
+Username: @HYPERxNINJA
+Target: 52.140.18.12
+Port: 16515
+Time: 240
+
+UserID: 6145909241 | Time: 2024-09-07 14:15:34.233305 | Command: /bgmi | Target: 20.198.111.211 | Port: 28449 | Time: 180
+Username: @Re3eN
+Target: 20.198.111.211
+Port: 28449
+Time: 180
+
+UserID: 6145909241 | Time: 2024-09-07 14:17:44.965885 | Command: /bgmi | Target: 20.235.94.34 | Port: 24218 | Time: 240
+Username: @Re3eN
+Target: 20.235.94.34
+Port: 24218
+Time: 240
+
+UserID: 6145909241 | Time: 2024-09-07 14:20:34.464390 | Command: /bgmi | Target: 20.204.189.186 | Port: 10209 | Time: 240
+Username: @Re3eN
+Target: 20.204.189.186
+Port: 10209
+Time: 240
+
+UserID: 6145909241 | Time: 2024-09-07 14:22:50.740578 | Command: /bgmi | Target: 20.235.90.227 | Port: 17266 | Time: 240
+Username: @Re3eN
+Target: 20.235.90.227
+Port: 17266
+Time: 240
+
+UserID: 6145909241 | Time: 2024-09-07 14:26:59.349567 | Command: /bgmi | Target: 20.235.90.227 | Port: 17266 | Time: 240
+Username: @Re3eN
+Target: 20.235.90.227
+Port: 17266
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 14:39:17.520000 | Command: /bgmi | Target: 52.140.2.172 | Port: 20162 | Time: 240
+Username: @HYPERxNINJA
+Target: 52.140.2.172
+Port: 20162
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 18:32:32.602691 | Command: /bgmi | Target: 4.213.65.133 | Port: 14752 | Time: 240
+Username: @HYPERxNINJA
+Target: 4.213.65.133
+Port: 14752
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 18:49:58.824576 | Command: /bgmi | Target: 20.235.19.177 | Port: 12177 | Time: 240
+Username: @HYPERxNINJA
+Target: 20.235.19.177
+Port: 12177
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-07 18:56:27.147723 | Command: /bgmi | Target: 20.198.110.158 | Port: 15297 | Time: 240
+Username: @HYPERxNINJA
+Target: 20.198.110.158
+Port: 15297
+Time: 240
+
+UserID: 5744186999 | Time: 2024-09-08 12:52:38.543401 | Command: /bgmi | Target: 20.204.39.91 | Port: 24905 | Time: 240
+Username: @HYPERxNINJA
+Target: 20.204.39.91
+Port: 24905
+Time: 240
+
